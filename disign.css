@@ -1,0 +1,77 @@
+
+
+.meny{background-color: #800000; height: 10vh; text-align: center;}
+
+.content{background-color:beige; height: 90vh; width: 90%;}
+
+.bokahär{background-image: url("boka.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+.hittatillossbild{background-image: url("hittatilloss.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+.våraövrigatjänsterbild{background-image: url("biltvätt.jpg");}
+.prisbild{background-image: url("priser.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+.startsidabild{background-image: url("Startsida.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+.Webbapp{background-color: darkblue;/* background-image: url("omoss.jpg")*/;background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+/* 
+font-family: 'Anton', sans-serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Shadows Into Light', cursive;
+*/
+
+/* priser*/
+.prislistor{color: beige; font-family: 'Indie Flower', cursive; font-size: 150%;}
+.typavparkering1{position: absolute; top: 30%; left: 10%;}
+.typavparkering2{position: absolute; top: 40%; left: 10%;}
+.typavparkering3{position: absolute; top: 50%; left: 10%;}
+.typavparkering4{position: absolute; top: 60%; left: 10%;}
+.typavparkering5{position: absolute; top: 70%; left: 10%;}
+.prislista1{position: absolute; top: 30%; left: 30%;}
+.prislista2{position: absolute; top: 40%; left: 30%;}				
+.prislista3{position: absolute; top: 50%; left: 30%;}
+.prislista4{position: absolute; top: 60%; left: 30%;}
+.prislista5{position: absolute; top: 70%; left: 30%;}
+
+/* Startsida */
+.centerstartsida{position: absolute; top: 50%; left: 25%;font-family: 'Volkhov', serif;font-size:270%; color: beige;}
+.bottenstartsida{position: absolute; text-align: center; top: 90%; left: 25%; font-family: 'Volkhov', serif;font-size: 115%; color: beige; background-color: black;}
+.loggo{position: absolute; top: 15%; left: 5%; font-family:'Orbitron', sans-serif;text-transform: uppercase;text-shadow: 2px 4px red;letter-spacing: 5px; font-size: 200%;color:beige;}
+.loggo2{position: absolute; top: 15%; left: 5%; font-family:'Orbitron', sans-serif;text-transform: uppercase;letter-spacing: 5px; font-size: 200%; color: red;}
+ul{list-style: none;}
+li a{text-decoration-line: none;color: #000000;}
+/*li a:hover{background-color:red;}*/
+a{color: beige;padding: 4% 4% ; text-decoration-line: none;font-size: 125%;vertical-align: middle;}
+a:hover{font-weight: bold; color:rgb(4, 5, 71) ;}
+
+/*Kontakta oss*/
+.kontakt{color: rgb(220, 231, 221);}
+.kontakter{     position: absolute; top: 30%; left: 19%; font-size: 200%;}
+.mailadress{    position: absolute; top: 40%; left: 19%; font-size: 130%;text-decoration-line: underline;}
+.telefonnummer{ position: absolute; top: 50%; left: 19%; font-size: 130%;}
+.hittatilloss{  position: absolute; top: 60%; left: 19%; font-size: 200%;}
+.karta{         position: absolute; top: 65%; left: 15%; color: beige;font-size: 130%;}
+
+/*våra övriga tjänster*/
+
+.våraövrigatjänster{position: absolute; top: 30%; left: 36%;font-size: 250%;color: beige;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.tvätt{color: beige; font-size: 130%;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.liten{             position: absolute; top: 40%; left: 25%; text-decoration-line: underline;}
+.mellan{            position: absolute; top: 50%; left: 25%; text-decoration-line: underline;}
+.stor{              position: absolute; top: 60%; left: 25%; text-decoration-line: underline;}
+.xshine{            position: absolute; top: 70%; left: 25%; text-decoration-line: underline;}
+.litenpris{         position: absolute; top: 40%; left: 65%; text-decoration-line: underline;}
+.mellanpris{        position: absolute; top: 50%; left: 65%; text-decoration-line: underline;}
+.storpris{          position: absolute; top: 60%; left: 65%; text-decoration-line: underline;}
+.xshinepris{        position: absolute; top: 70%; left: 65%; text-decoration-line: underline;}
+.servic{            position: absolute; top: 80%; left: 25%; text-decoration-line: underline;}  
+.servicpris{        position: absolute; top: 80%; left: 65%; text-decoration-line: underline;}
+
+/*bokahär*/
+.P{position: absolute; top: 23%; left: 10%;color: beige;font-size: 150%;}
+.fråga{position: absolute; top: 30%; left: 5%;color: beige;}
+.biltvätt{position: absolute;color: beige;}
+.parkering{position: absolute;top: 20%; left: 10%;color: beige;}
+.namn{position: absolute; top: 30%; left: 10%;color: beige;}
+.service{position: absolute; color: beige;}
+
+/*about us*/
+.aboutus{position: absolute; color: black; font-size: 120%; top: 25%; left: 2%; right: 2%; background-color: white;}
+.omvivalt{font-size: 150%;}
+.vivalde{font-size: 150%;}
