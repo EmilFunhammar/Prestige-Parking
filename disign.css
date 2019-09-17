@@ -64,6 +64,7 @@ a:hover{font-weight: bold; color:rgb(4, 5, 71) ;}
 .xshinepris{        position: absolute; top: 70%; left: 65%; text-decoration-line: underline;}
 .servic{            position: absolute; top: 80%; left: 25%; text-decoration-line: underline;}  
 .servicpris{        position: absolute; top: 80%; left: 65%; text-decoration-line: underline;}
+.tvattpris{color: beige; font-size: 130%;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 
 /*bokahär*/
 .P{position: absolute; top: 23%; left: 5%;color: beige;font-size: 150%;}
