@@ -17,8 +17,7 @@ font-family: 'Shadows Into Light', cursive;
 */
 
 /* priser*/
-.prislista{color: beige; font-family: 'Indie Flower', cursive; font-size: 150%;}
-.prislistor2{color: beige; font-family: 'Indie Flower', cursive; font-size: 150%;}
+.prislista{position: absolute; color: beige; font-family: 'Indie Flower', cursive; font-size: 150%; top: 30%; left: 10%; text-decoration-line: underline;}
 .prislistor{color: beige; font-family: 'Indie Flower', cursive; font-size: 150%;}
 .typavparkering1{position: absolute; top: 30%; left: 10%;}
 .typavparkering2{position: absolute; top: 40%; left: 10%;}
