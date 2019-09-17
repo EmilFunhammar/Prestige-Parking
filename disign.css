@@ -76,6 +76,6 @@ a:hover{font-weight: bold; color:rgb(4, 5, 71) ;}
 .namn{color: beige; position: absolute; left: 5%;}
 
 /*about us*/
-.aboutus{position: absolute; color: black; font-size: 120%; top: 25%; left: 2%; right: 2%; background-color: white;}
+.aboutus{position: absolute; color: black; font-size: 120%; top: 25%; left: 3%; right: 3%; bottom: 3%; background-color: white;right: 1%;left: 1%;}
 .omvivalt{font-size: 150%;}
 .vivalde{font-size: 150%;}
