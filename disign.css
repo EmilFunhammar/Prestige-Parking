@@ -30,7 +30,7 @@ font-family: 'Shadows Into Light', cursive;
 .prislista5{position: absolute; top: 70%; left: 30%;}
 
 /* Startsida */
-.centerstartsida{position: absolute; top: 50%; left: 25%;font-family: 'Volkhov', serif;font-size:270%; color: beige;}
+.centerstartsida{position: absolute; top: 50%; left: 25%;font-family: 'Volkhov', serif;font-size:270%; color: beige;background-color: black;}
 .bottenstartsida{position: absolute; text-align: center; top: 90%; left: 25%; font-family: 'Volkhov', serif;font-size: 115%; color: beige; background-color: black;}
 .loggo{position: absolute; top: 15%; left: 5%; font-family:'Orbitron', sans-serif;text-transform: uppercase;text-shadow: 2px 4px red;letter-spacing: 5px; font-size: 200%;color:beige;}
 .loggo2{position: absolute; top: 15%; left: 5%; font-family:'Orbitron', sans-serif;text-transform: uppercase;letter-spacing: 5px; font-size: 200%; color: red;}
