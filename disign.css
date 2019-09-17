@@ -8,7 +8,7 @@
 .hittatillossbild{background-image: url("hittatilloss.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
 .våraövrigatjänsterbild{background-image: url("biltvätt.jpg");}
 .prisbild{background-image: url("priser.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
-.indexbild{background-image: url("Startsida.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
+.indexbild{background-image: url("indexbild.jpg");background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
 .Webbapp{background-color: darkblue;/* background-image: url("omoss.jpg")*/;background-position: center center;background-repeat: no-repeat;background-attachment: fixed; background-size: cover;}
 /* 
 font-family: 'Anton', sans-serif;
