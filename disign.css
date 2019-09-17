@@ -72,6 +72,7 @@ a:hover{font-weight: bold; color:rgb(4, 5, 71) ;}
 .parkering{position: absolute;top: 20%; left: 10%;color: beige;}
 .namn{position: absolute; top: 30%; left: 10%;color: beige;}
 .service{position: absolute; color: beige;}
+.namn{color: beige; position: absolute; left: 5%;}
 
 /*about us*/
 .aboutus{position: absolute; color: black; font-size: 120%; top: 25%; left: 2%; right: 2%; background-color: white;}
