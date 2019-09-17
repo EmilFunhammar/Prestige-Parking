@@ -66,7 +66,7 @@ a:hover{font-weight: bold; color:rgb(4, 5, 71) ;}
 .servicpris{        position: absolute; top: 80%; left: 65%; text-decoration-line: underline;}
 
 /*bokahär*/
-.P{position: absolute; top: 23%; left: 10%;color: beige;font-size: 150%;}
+.P{position: absolute; top: 23%; left: 5%;color: beige;font-size: 150%;}
 .fråga{position: absolute; top: 30%; left: 5%;color: beige;}
 .biltvätt{position: absolute;color: beige;}
 .parkering{position: absolute;top: 20%; left: 10%;color: beige;}
